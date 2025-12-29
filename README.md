@@ -2,47 +2,46 @@
 
 ![THE COMPUTER Banner](logo_breit.png)
 
-> **THE COMPUTER** ist ein mysteriöses Game, das sich aktuell noch in Entwicklung befindet.  
-> Viele Details sind noch geheim – und genau das ist Teil des Konzepts.
+> **THE COMPUTER** is a mysterious game currently in development.  
+> Very little is known so far — and that is intentional.
 
 ---
 
-## 🧩 Über das Spiel
+## 🧩 About the Game
 
-Über **THE COMPUTER** ist bisher nur wenig bekannt.  
-Was wir wissen:
+At this stage, only a few things are certain:
 
-- Der Name: **THE COMPUTER**
-- Das Spiel befindet sich **früh in der Entwicklung**
-- Mehr Informationen werden **nach und nach** enthüllt
+- The name: **THE COMPUTER**
+- The project is **still in development**
+- More information will be revealed over time
 
-Alles andere bleibt vorerst ein Rätsel.
-
----
-
-## 🚧 Entwicklungsstatus
-
-🛠️ **In Entwicklung**  
-Dieses Projekt ist **noch nicht veröffentlicht**.  
-Features, Story und Gameplay können sich jederzeit ändern.
+Everything else remains unknown.
 
 ---
 
-## 📸 Erste Eindrücke
+## 🚧 Development Status
 
-![THE COMPUTER Icon](logo.png)
-
-*(Bilder, Videos oder GIFs folgen zu einem späteren Zeitpunkt.)*
-
----
-
-## 📌 Hinweis
-
-Dieses Repository dient aktuell zur Entwicklung und Dokumentation.  
-Release-Datum, Plattformen und weitere Details werden später bekannt gegeben.
+🛠️ **Work in Progress**  
+This game has **not been released yet**.  
+Gameplay, story, and features may change at any time.
 
 ---
 
-## 📄 Lizenz
+## 📸 First Look
 
-Noch nicht festgelegt.
+![THE COMPUTER Logo](logo.png)
+
+*(Screenshots, videos, and more details will be shared in the future.)*
+
+---
+
+## 📌 Note
+
+This repository is currently used for development purposes.  
+Release date, platforms, and further details will be announced later.
+
+---
+
+## 📄 License
+
+Not decided yet.
